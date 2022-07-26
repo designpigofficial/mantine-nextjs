@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import { GetServerSidePropsContext } from 'next';
 import { useState } from 'react';
 import { AppProps } from 'next/app';
